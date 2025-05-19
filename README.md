@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Laurence!
-- 👀 I’m interested in all things data, in particular applications of machine learning, and sourcing new data from scraping/APIs
-- 🌱 I’m currently learning more about what's possible with Tensorflow 2, Flask/Django as well as exploring Azure products 
-- 💞️ I’m looking to collaborate on something cool in the sports predictive analytics space, in particular football
+- 👀 I’m a data enthusiast interested in areas including causal inference, AI, and linear programming.
+- 🌱 I’m currently learning more about image processing using Yolo, application of linear programming to online grocery shopping, and deploying apps and models to cloud infrastructure.
+- 💞️ I’m always on the look for opportunities to learn from others and exchange knowledge, please drop me a message!
 - 📫 How to reach me: laurencelj@gmail.com
 
 <!---
